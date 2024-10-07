@@ -66,7 +66,8 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of Serial port utility   :
- ![Screenshot 2024-09-16 092338](https://github.com/user-attachments/assets/23c82028-f6b6-425c-9b9e-dc0017156ce9)
+![369741322-160fc2ce-08e6-4331-a434-5c2396a4941c](https://github.com/user-attachments/assets/3ca241a1-94f7-4fa9-becb-7d1e324a176b)
+
  
  
  
